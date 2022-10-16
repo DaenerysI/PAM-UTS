@@ -39,7 +39,6 @@ class App extends Component {
         this.setState({});
       }
     } catch(e) {
-      // error reading value
       console.warn('Gagal membaca data')
     }
   }
@@ -82,8 +81,6 @@ class App extends Component {
 
         <Jiro
           label={'English (Indonesia)'}
-        
-          // this is used as active and passive border color
           borderColor={'#03a9f4'}
           inputPadding={16}
           inputStyle={{ color: '#f5f5f5' }}

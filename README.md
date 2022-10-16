@@ -18,4 +18,10 @@
    ```
  
  ## Link Download Aplikasi
-  [Video](https://drive.google.com/drive/folders/1o8GzoYV6fqMFgt7yEX1jbWEAhZb1PkCD?usp=sharing)
+   
+   [Aplikasi](https://drive.google.com/drive/folders/1o8GzoYV6fqMFgt7yEX1jbWEAhZb1PkCD?usp=sharing)
+  
+ ## Link Video Demo Aplikasi
+    
+   [Video](https://drive.google.com/drive/folders/1nLFLcUGPwJMUuUmdRbOzuHAT78_eWVZy?usp=sharing)
+

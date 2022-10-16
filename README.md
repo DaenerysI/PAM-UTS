@@ -12,7 +12,7 @@
 ## Cara Install
    ```sh
     Git Clone https://github.com/DaenerysI/UTS-PAM
-    cd UTS-PAM
+    cd PAM-UTS 
     npm install
     npm start
    ```

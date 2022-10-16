@@ -4,11 +4,11 @@
 ## Daftar Package Expo
     -AsyncStorage
     -StatusBar
-
+    
 ## Cara Install
-    ```sh
+   ```sh
     Git Clone https://github.com/DaenerysI/UTS-PAM
     cd UTS-PAM
     npm install
     npm start
-    ```
+   ```

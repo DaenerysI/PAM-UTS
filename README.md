@@ -18,4 +18,4 @@
    ```
  
  ## Link Download Aplikasi
-    <https://drive.google.com/drive/folders/1o8GzoYV6fqMFgt7yEX1jbWEAhZb1PkCD?usp=sharing>
+  [Video](https://drive.google.com/drive/folders/1o8GzoYV6fqMFgt7yEX1jbWEAhZb1PkCD?usp=sharing)

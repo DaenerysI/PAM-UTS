@@ -10,12 +10,11 @@
     -StatusBar
     
 ## Cara Install
-   ```sh
     Git Clone https://github.com/DaenerysI/UTS-PAM
     cd PAM-UTS 
     npm install
     npm start
-   ```
+
  
  ## Link Download Aplikasi
    
